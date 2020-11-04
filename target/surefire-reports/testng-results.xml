@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36" started-at="2020-10-11T10:58:47Z" finished-at="2020-10-11T10:58:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36" started-at="2020-10-11T10:58:47Z" finished-at="2020-10-11T10:58:47Z">
+      <class name="MavenLearning.Test1">
+        <test-method status="PASS" signature="automate1()[pri:0, instance:MavenLearning.Test1@22635ba0]" name="automate1" duration-ms="9" started-at="2020-10-11T16:28:47Z" finished-at="2020-10-11T16:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate1 -->
+        <test-method status="PASS" signature="automate2()[pri:0, instance:MavenLearning.Test1@22635ba0]" name="automate2" duration-ms="1" started-at="2020-10-11T16:28:47Z" finished-at="2020-10-11T16:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate2 -->
+      </class> <!-- MavenLearning.Test1 -->
+      <class name="MavenLearning.Test2">
+        <test-method status="PASS" signature="automate3()[pri:0, instance:MavenLearning.Test2@5a955565]" name="automate3" duration-ms="1" started-at="2020-10-11T16:28:47Z" finished-at="2020-10-11T16:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate3 -->
+        <test-method status="PASS" signature="automate4()[pri:0, instance:MavenLearning.Test2@5a955565]" name="automate4" duration-ms="1" started-at="2020-10-11T16:28:47Z" finished-at="2020-10-11T16:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate4 -->
+      </class> <!-- MavenLearning.Test2 -->
+      <class name="MavenLearning.Test3">
+        <test-method status="PASS" signature="automate5()[pri:0, instance:MavenLearning.Test3@6293abcc]" name="automate5" duration-ms="2" started-at="2020-10-11T16:28:47Z" finished-at="2020-10-11T16:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate5 -->
+        <test-method status="PASS" signature="automate6()[pri:0, instance:MavenLearning.Test3@6293abcc]" name="automate6" duration-ms="0" started-at="2020-10-11T16:28:47Z" finished-at="2020-10-11T16:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate6 -->
+      </class> <!-- MavenLearning.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
